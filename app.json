@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "guia7",
+    "slug": "guia7",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
